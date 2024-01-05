@@ -1,1 +1,1 @@
-export function sumOfMultiples(multiple, max) {}
+export function sumOfMultiples(multiple, max): {}
